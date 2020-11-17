@@ -1,0 +1,19 @@
+name: "personal-website of pacorabadan" 
+output_dir: "."
+navbar:
+  title: "Paco Rabadán Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Material Docente"
+      href: matdoc.html
+    - text: "About Me"
+      href: about.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<francisco.rabadan@urjc.es>
+    - icon: fa-github fa-lg
+      href: http://github.com/pacorabadan/
+output:
+  html_document:
+    theme: darkly 

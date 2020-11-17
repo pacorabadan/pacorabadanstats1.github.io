@@ -1,0 +1,8 @@
+---
+title: "Material docente"
+---
+
+## Apuntes de Estadística I en github
+
+<https://pacorabadanstats1.github.io/>
+Conjunto de vídeos, presentaciones, enlaces externos... como material de apoyo a las clases presenciales.

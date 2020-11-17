@@ -1,0 +1,14 @@
+---
+title: "Personal Website"
+---
+
+I am going to migrate my actual wordpress content in <https://pacorabadan.com> to md site in github <https://pacorabadan.github.io/>. 
+
+Reasons: simplicity for code, howtos, another projects,....
+
+This site is "under construction"...
+
+
+This is Paco.
+
+<img src="http://jwilson.coe.uga.edu/EMAT6680Su09/King/Roofing/Application%20of%20%20Mathematics%20in%20Construction_files/image004.jpg" style="width:50%">
